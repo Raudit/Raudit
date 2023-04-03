@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi I'm Raudit 👋
+ I'm student to Sayna
+ I'interrested for the digital
 <!--
 **Raudit/Raudit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
